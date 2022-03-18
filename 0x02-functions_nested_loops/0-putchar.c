@@ -1,9 +1,15 @@
+/*
+ * File: 0-putchar.c
+ * Auth: Olaniyi Esther Adufe
+ *
+ */
+
 #include "main.h"
 
 /**
- * main - Entry point of the program
+ * main - Prints "_putchar" followed by a new line.
  *
- * Return: Always return 0 (Success)
+ * Return: Always 0.
  */
 int main(void)
 {
