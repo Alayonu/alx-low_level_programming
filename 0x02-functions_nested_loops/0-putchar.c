@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Prints "Holberton" followed by a new line.
+ * main - Entry point of the program
  *
- * Return: Always 0.
+ * Return: Always return 0 (Success)
  */
 int main(void)
 {
