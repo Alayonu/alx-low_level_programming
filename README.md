@@ -1,1 +1,1 @@
-This repository contains programs written for the low-level programming at Holberton School.
+This repository contains programs written for the low-level programming at Holberton School. It is my first project on C as part of the alx curriculum, and covers the very basics of compilation and C.
